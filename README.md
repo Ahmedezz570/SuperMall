@@ -68,4 +68,4 @@ Follow these steps to clone the repository and run the project on your local mac
 5. **Start the Expo project: Run the following command to start the project**:
    ```bash 
    expo start
-```
+
