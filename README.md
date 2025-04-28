@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+🛍️ SuperMall - React Native E-Commerce App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Supermall is a complete E-commerce project developed using:
+- **React Router** for page navigation 🚀.
+- **Firebase** for managing Authentication 🔐 and storing data in Firestore 🔥.
+- **Cloudinary API** for image uploading and storing URLs in Firestore 🖼️.
 
-## Get started
+## Key Features:
 
-1. Install dependencies
+- **Authentication**:
+  - User sign-up and login ✨.
+  - Storing user data in Firestore 🗂️.
 
+- **Firestore**:
+  - Managing Collections:
+    - Users 👤
+    - Products 🛍️
+    - Reviews (as a Subcollection within each Product)📝
+    - Cart (as a Subcollection within each User) 🛒
+    - Favourite (as a Subcollection within each User) 💖
+
+- **Custom Dashboards**:
+  - User Page 👨‍💻.
+  - Admin Page 👩‍💻.
+
+- **Full Design**:
+  - The entire app is custom-designed, including:
+    - Navigation system using **Bottom Tabs** 📱.
+
+- **Image Upload**:
+  - Uploading images using Cloudinary API 🌥️.
+  - Storing image URLs in Firestore and linking them to products 🖼️.
+
+## Tools and Technologies Used:
+
+-Expo Router  
+- Firebase Authentication 🔐
+- Firebase Firestore 🔥
+- Cloudinary API 🌐
+
+
+## Additional Notes:
+
+- Everything in the app is built and designed from scratch 🏗️.
+- The database is structured to support future expansion, with the use of Subcollections for cart and favourite items within each user 🌱.
+
+## How to Run the Project Locally 📥
+
+Follow these steps to clone the repository and run the project on your local machine:
+
+1. **Clone the repository**:
+   Open your terminal and run the following command to clone the repo:
    ```bash
-   npm install
-   ```
+   git clone https://github.com/your-username/supermall.git
 
-2. Start the app
+2. **Navigate to the project directory**;
+  ```bash
+   cd supermall
 
-   ```bash
-    npx expo start
-   ```
+3. **Install dependencies: Make sure you have Node.js and npm installed. Then, run the following command to install all the necessary dependencies:**;
 
-In the output, you'll find options to open the app in a
+  ```bash 
+  npm install
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+4. **Install Expo CLI: If you don’t have Expo CLI installed, you can install it globally by running:**;
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+  ```bash 
+     npm install -g expo-cli
 
-## Get a fresh project
+5. **Start the Expo project: Run the following command to start the project**; 
+   ```bash 
+    expo start
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

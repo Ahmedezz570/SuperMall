@@ -1,0 +1,151 @@
+[
+    {
+ 
+      "name": "iPhone 13",
+      "category": "Mobiles",
+      "description": "A smartphone with a 6.1-inch display, 128GB storage, 4GB RAM, and 5G network support.",
+      "price": "36950",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802392/csfsh5cjtfnkha8w4qdb.png",
+      "discount" : "50"
+    },
+    {
+  
+      "name": "Realme 11x 5G",
+      "category": "Mobiles",
+      "description": "A smartphone with a 6.72-inch display, 128GB storage, 6GB RAM, 5000mAh battery, and 5G network support.",
+      "price": "8869",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802480/yrs5sq4xubhqjmscqqzl.jpg",
+      "discount" : "50"
+    },
+    {
+    
+      "name": "Samsung Galaxy A24",
+      "category": "Mobiles",
+      "description": "A smartphone with a 6.5-inch Super AMOLED display, 128GB storage, 6GB RAM, 5000mAh battery, and 5G network support.",
+      "price": "8499",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802496/himrrcmhgwy3gbx2br15.jpg",
+      "discount" : "20"
+    },
+    {
+ 
+      "name": "Samsung Galaxy A05s",
+      "category": "Mobiles",
+      "description": "A smartphone with a 6.6-inch PLS LCD display, 128GB storage, 6GB RAM, 5000mAh battery, and a triple rear camera setup.",
+      "price": "7499",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802509/lzxu5clrz5q4rvlotxqe.jpg",
+      "discount" : "30"
+    },
+    {
+     
+      "name": "iPhone 14 Pro Max",
+      "category": "Mobiles",
+      "description": "A smartphone with a 6.7-inch Super Retina XDR display, 256GB storage, 6GB RAM, 4323mAh battery, and a triple 48MP rear camera setup.",
+      "price": "38888",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802599/tbbvo1mnh8lyo1kjestu.jpg",
+      "discount" : "50"
+    },
+    {
+    
+      "name": "Samsung Galaxy A14",
+      "category": "Mobiles",
+      "description": "An affordable smartphone featuring a 6.6-inch PLS LCD display, 128GB storage, 4GB RAM, 5000mAh battery, and a triple 50MP rear camera setup.",
+      "price": "6999",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802638/lhymwicisvk3zisctudf.jpg",
+      "discount" : "40"
+    },
+    {
+    
+     
+      "name": "Samsung Galaxy S23",
+      "category": "Mobiles",
+      "description": "A flagship smartphone with a 6.8-inch Dynamic AMOLED 2X display, Snapdragon 8 Gen 2, 12GB RAM, 200MP camera, and 5000mAh battery.",
+      "price": "34999",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802745/guvl9gn8r0fcrkurca4k.jpg",
+      "discount" : "50"
+    },
+    {
+     
+      "name": "iPhone 14 Pro Max",
+      "category": "Mobiles",
+      "description": "Apple's high-end smartphone with a 6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP triple camera, and Dynamic Island feature.",
+      "price": "45999",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802786/gzv48covlyl9t6vmqbbz.jpg",
+      "discount" : "50"
+    },
+    {
+     
+      
+      "name": "Xiaomi 13T Pro",
+      "category": "Mobiles",
+      "description": "A powerful mid-range phone with a 6.67-inch AMOLED display, MediaTek Dimensity 9200+ chip, 12GB RAM, and a 50MP triple-camera setup.",
+      "price": "21999",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802843/z6swem00zyu66hltidrs.jpg",
+      "discount" : "50"
+    },
+    
+    {
+     
+      
+      "category": "pants",
+      "name": "pants",
+      "description": "High-quality pants and original.",
+      "price": "59.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802906/ofhnhplulskgfectn5pm.jpg",
+      "discount" : "50"
+    },
+  {
+      
+      "category": "pants",
+      "name": "pants",
+      "description": "High-quality pants and original.",
+      "price": "59.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802972/umqeo2clgvyslgle30rn.jpg",
+      "discount" : "50"
+    },
+    {
+      
+      
+      "category": "pants",
+      "name": "pants",
+      "description": "High-quality pants and original.",
+      "price": "59.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802982/wupxvqrflivpwwajkmme.jpg",
+      "discount" : "50"
+    },
+    {
+    
+      "category": "pants",
+      "name": "pants",
+      "description": "Stylish casual pants for everyday wear.",
+      "price": "49.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745802990/k0c61iqciebwxb9ukfj8.jpg",
+      "discount" : "50"
+    },
+    {
+     
+      "category": "dresses",
+      "name": "dress",
+      "description": "Elegant evening dress with lace details.",
+      "price": "119.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745803081/nkfoqx38ckoulkqeyqyb.jpg",
+      "discount" : "50"
+    },
+    {
+  
+      "category": "jackets",
+      "name": "jacket",
+      "description": "Warm jacket for winter season.",
+      "price": "89.99",
+      "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745803090/m9m8gyvwl75cvlnzexdc.jpg",
+      "discount" : "50"
+    },
+    {
+        "category": "sweatshirt",
+        "name": "sweatshirt",
+        "description": "Hooded sweatshirt with front pocket.",
+        "price": "49.99",
+        "image": "https://res.cloudinary.com/dlgzjfjlb/image/upload/v1745803099/jiok52clf9vruhuiua5c.jpg",
+        "discount": "100"
+      }
+       
+]
