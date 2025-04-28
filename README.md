@@ -51,7 +51,8 @@ Follow these steps to clone the repository and run the project on your local mac
 1. **Clone the repository**:
    Open your terminal and run the following command to clone the repo:
    ```bash
-   git clone https://github.com/your-username/supermall.git
+   https://github.com/Ahmedezz570/SuperMall.git
+   ```
 
 2. **Navigate to the project directory**:
   ```bash 
