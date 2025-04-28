@@ -33,7 +33,7 @@ Supermall is a complete E-commerce project developed using:
 
 ## Tools and Technologies Used:
 
--Expo Router  
+- Expo Router  
 - Firebase Authentication 🔐
 - Firebase Firestore 🔥
 - Cloudinary API 🌐
@@ -56,18 +56,16 @@ Follow these steps to clone the repository and run the project on your local mac
 2. **Navigate to the project directory**:
   ```bash 
   cd supermall
-
+```
 3. **Install dependencies: Make sure you have Node.js and npm installed. Then, run the following command to install all the necessary dependencies**:
-
   ```bash
    npm install
-
+```
 4. **Install Expo CLI: If you don’t have Expo CLI installed, you can install it globally by running**:
-
   ```bash 
    npm install -g expo-cli
-
+```
 5. **Start the Expo project: Run the following command to start the project**:
    ```bash 
    expo start
-
+```
