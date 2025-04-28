@@ -1,4 +1,4 @@
-🛍️ SuperMall - React Native E-Commerce App
+##🛍️ SuperMall - React Native E-Commerce App
 
 Supermall is a complete E-commerce project developed using:
 - **React Router** for page navigation 🚀.
