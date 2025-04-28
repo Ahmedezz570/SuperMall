@@ -50,24 +50,19 @@ Follow these steps to clone the repository and run the project on your local mac
 
 1. **Clone the repository**:
    Open your terminal and run the following command to clone the repo:
-   ```bash
-   git clone https://github.com/your-username/supermall.git
+   ```bashgit clone https://github.com/your-username/supermall.git
 
 2. **Navigate to the project directory**;
-  ```bash
-   cd supermall
+  ```bash cd supermall
 
 3. **Install dependencies: Make sure you have Node.js and npm installed. Then, run the following command to install all the necessary dependencies:**;
 
-  ```bash 
-  npm install
+  ```bash npm install
 
 4. **Install Expo CLI: If you don’t have Expo CLI installed, you can install it globally by running:**;
 
-  ```bash 
-     npm install -g expo-cli
+  ```bash  npm install -g expo-cli
 
 5. **Start the Expo project: Run the following command to start the project**; 
-   ```bash 
-    expo start
+   ```bash expo start
 
